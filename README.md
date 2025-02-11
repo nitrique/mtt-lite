@@ -24,6 +24,8 @@ It finally drove me into a circuit exploration and testing.
 
 Using the sketches in arduino folder, you can dump and write the content of the flash with an arduino, and an EEPROM ICSP clip.
 
+The EEPROM is the 24LC32A next to the main microcontroller (the big chip).
+
 The serial number is located at position 30 to 35 on the hex values.
 
 I don't known what is the purpose of other differences mentionned on datasheet folders.
